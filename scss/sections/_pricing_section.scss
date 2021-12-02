@@ -1,0 +1,47 @@
+.pricing {
+
+h4 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.card-subtitle {
+font-size: 1.2rem;
+color: rgb(89, 89, 89);
+font-weight: 400;
+}
+
+.price-card {
+    border: 1.5px solid rgb(255, 173, 35);
+    border-radius: 1em;
+    padding: 35px;
+    margin-top: 2rem;
+    background-color: rgb(251, 248, 243);
+
+
+    .price-heading {
+        color: $text-secondary;
+        font-weight: 400;
+        font-size: 1.5rem;
+
+        span {
+            font-size: 3rem;
+            font-weight: 600;
+            color: black;
+        }
+      
+    }
+
+    ul {
+        list-style-type: none;
+
+        li{
+            background: url("/Assets/Checkmark.svg") no-repeat;
+            padding-left: 2.5rem;
+            margin-bottom: 1rem;
+            color:rgb(89, 89, 89);
+        }
+    }
+}
+
+}

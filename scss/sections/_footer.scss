@@ -1,0 +1,26 @@
+.footer-section {
+    background-color: $bg-secondary;
+
+    ul {
+        list-style-type: none;
+        
+        li {
+            display: inline-block;
+            padding: 0.5rem;
+
+        }
+    }
+
+    .navbar-brand {
+        font-style: italic;
+        font-weight: bold;
+    }
+}
+
+
+#footer .nav-link,
+#footer .nav-link:hover {
+  color: black;
+  font-size: 1.15rem;
+  padding: 0;
+}

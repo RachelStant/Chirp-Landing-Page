@@ -1,0 +1,39 @@
+.our-features {
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+
+
+    .feature-heading {
+        font-weight: 700;
+        margin-bottom: 2rem;
+    }
+
+ 
+
+
+    .feature-box {
+        border: 1px solid lightgray;
+        border-radius: 1em;
+        padding: 30px;
+        margin-bottom: 2.5rem;
+        margin-right: 1rem;
+
+        img {
+            margin-bottom: 1rem;
+            
+        }
+
+        h4 {
+           font-size: 1.5rem; 
+           font-weight: 600;
+           margin-bottom: 1rem;
+        }
+
+        p {
+            font-size: 1.3rem;
+            color: $text-secondary;
+            margin-bottom: 0;
+
+        }
+    }
+}

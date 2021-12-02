@@ -1,0 +1,24 @@
+.menu {
+
+    background-color: $bg-primary;
+
+    .navbar-brand {
+        color: $primary;
+        font-style: italic;
+        font-weight: bold;
+    }
+
+    li {
+        
+        button {
+            color: $white;
+            border: none;
+        }
+       
+    }
+
+}
+
+.container-fluid:first-child {
+    background-color: $bg-primary;
+  }

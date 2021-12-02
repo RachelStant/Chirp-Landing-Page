@@ -1,0 +1,15 @@
+{
+  "name": "chirp",
+  "version": "1.0.0",
+  "description": "chirp app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rachel S",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.7.1"
+  }
+}

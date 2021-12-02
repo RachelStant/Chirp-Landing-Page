@@ -1,0 +1,26 @@
+
+.btn-primary {
+    color: #fff;
+    background-color: $btn-primary;
+    border: none;
+    font-size: 1rem;
+    padding: 1rem 1.5rem;
+  }
+
+.btn > img {
+    padding-right: 0.5rem;
+}
+
+.btn {
+    padding: 0.9rem 2rem;
+    font-size: 1.2rem;
+}
+
+.btn-link {
+    color: $btn-link;
+    text-decoration: none;
+  }
+
+.btn-primary:hover {
+  color: #fff;
+}
